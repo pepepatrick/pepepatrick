@@ -1,16 +1,18 @@
-## Hi there 👋
+# Portfolio de Análise de Dados | Patrick Pepe
 
-<!--
-**pepepatrick/pepepatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem-vindo ao meu portfólio. Sou estudante de Engenharia de Software e um entusiasta da área de dados, atualmente estou utilizando o GitHub para compartilhar os meu projetos para a área de Dados.
 
-Here are some ideas to get you started:
+Atualmente, foco meus estudos em construir soluções de BI e Data Science, unindo fundamentos técnicos com visão de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas
+* **Data Visualization & BI:** Power BI, DAX, Power Query.
+* **Programação:** Python, Java.
+* **Banco de Dados:** SQL, MySQL.
+* **Controle de Versão:** Git e GitHub.
+
+## 🎯 Objetivo Profissional
+Estou em busca de desafios como Analista de Dados ou Desenvolvedor Júnior, onde possa aplicar minha capacidade de resolução de problemas — desenvolvida na Marinha — aliada à tecnologia para gerar valor através da análise de dados.
+
+## 📬 Vamos nos conectar?
+* **LinkedIn:** www.linkedin.com/in/patrick-pepe-904b0037b
+* **GitHub:** /pepepatrick
